@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @th-tsai
-- 👀 I’m interested in Statistics and Data Sciecne
+- 👀 I’m interested in Operational Research and Data Sciecne
 - 🌱 I’m currently learning Python and machine learning
 - 💞️ I started to work as a data analyst since March 2023
 - 📫 You can find me through my email!
