@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @th-tsai
-- 👀 I’m interested in Operational Research and Data Sciecne
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I started to work as a data analyst since March 2023
+- 👀 I’m studying Operational Research with Data Science at the University of Edinburgh
+- 🌱 I’m currently learning Pytorch (I quite like it!
+- 💞️ I worked as a data analyst before, mainly using R
 - 📫 You can find me through my email!
 
 <!---
