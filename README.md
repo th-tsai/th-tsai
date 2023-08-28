@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @th-tsai
 - 👀 I’m studying Operational Research with Data Science at the University of Edinburgh
-- 🌱 I’m currently learning Pytorch (I quite like it!
+- 🌱 I’m currently learning Pytorch
 - 💞️ I worked as a data analyst before, mainly using R
 - 📫 You can find me through my email!
 
