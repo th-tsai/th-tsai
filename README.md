@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @th-tsai
 - 👀 I’m studying Operational Research with Data Science at the University of Edinburgh
 - 🌱 I’m currently learning Machine Learning, Mateheuristics and Deep Learning using Python
-- 💞️ I worked as a data analyst before, mainly using R
+- 💞️ Look for a job starting from Sep 2024
 - 📫 You can find me through my email!
 
 <!---
